@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Rownanie\Rownanie\bin\Debug\net5.0\Rownanie.exe
+C:\Users\admin\source\repos\Rownanie\Rownanie\bin\Debug\net5.0\Rownanie.deps.json
+C:\Users\admin\source\repos\Rownanie\Rownanie\bin\Debug\net5.0\Rownanie.runtimeconfig.json
+C:\Users\admin\source\repos\Rownanie\Rownanie\bin\Debug\net5.0\Rownanie.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Rownanie\Rownanie\bin\Debug\net5.0\Rownanie.dll
+C:\Users\admin\source\repos\Rownanie\Rownanie\bin\Debug\net5.0\ref\Rownanie.dll
+C:\Users\admin\source\repos\Rownanie\Rownanie\bin\Debug\net5.0\Rownanie.pdb
+C:\Users\admin\source\repos\Rownanie\Rownanie\obj\Debug\net5.0\Rownanie.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Rownanie\Rownanie\obj\Debug\net5.0\Rownanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Rownanie\Rownanie\obj\Debug\net5.0\Rownanie.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Rownanie\Rownanie\obj\Debug\net5.0\Rownanie.AssemblyInfo.cs
+C:\Users\admin\source\repos\Rownanie\Rownanie\obj\Debug\net5.0\Rownanie.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Rownanie\Rownanie\obj\Debug\net5.0\Rownanie.dll
+C:\Users\admin\source\repos\Rownanie\Rownanie\obj\Debug\net5.0\ref\Rownanie.dll
+C:\Users\admin\source\repos\Rownanie\Rownanie\obj\Debug\net5.0\Rownanie.pdb
+C:\Users\admin\source\repos\Rownanie\Rownanie\obj\Debug\net5.0\Rownanie.genruntimeconfig.cache
